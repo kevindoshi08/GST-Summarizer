@@ -1,2 +1,2 @@
 # GST-Summarizer
-Generates a GST Summary of invoices.
+Generates a Goods and Services Tax (GST) Summary of invoices.
